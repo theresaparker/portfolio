@@ -3774,10 +3774,10 @@ input, select, textarea {
 				border-top: 0;
 			}
 
-		#main > footer {
-			text-align: center;
-		}
-
+			#main > footer {
+				/*! text-align: center; */
+			}
+		
 		#main > .post {
 			padding: 8rem 8rem 6rem 8rem ;
 		}
